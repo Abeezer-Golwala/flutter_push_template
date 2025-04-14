@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.my_flutter_app-mergeDebugResources-39:/values-sw400dp-v13/values-sw400dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/abeezer/.gradle/caches/8.13/transforms/3af2e3fbcd919014c86d380cfd873105/transformed/jetified-push-templates-1.4.0/res/values-sw400dp-v13/values-sw400dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,22,26,32,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,119,181,234,285,332,374,427,477,525,586,631,681,729,790,837,880,927,1055,1237,1528,1731",
+                        "endLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,21,25,31,35,42",
+                        "endColumns": "63,61,52,50,46,41,52,49,47,60,44,49,47,60,46,42,46,12,12,12,12,12",
+                        "endOffsets": "114,176,229,280,327,369,422,472,520,581,626,676,724,785,832,875,922,1050,1232,1523,1726,2066"
+                    }
+                }
+            ]
+        }
+    ]
+}
