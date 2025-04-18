@@ -30,7 +30,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  # clevertap_plugin: ^3.1.0
+  # clevertap_plugin: ^3.1.1
  # clevertap_plugin: ^3.3.0
   clevertap_plugin:
     git:
